@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "apolloniisophis01unkngoog_0006.png"; bbox 0 0 4476 6032; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 339 1931 1799 2166">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 339 1931 1953 2182">
+     <span class='ocr_line' id='line_1_1' title="bbox 339 1931 1799 2166; baseline 0.001 -38"><span class='ocrx_word' id='word_1_1' title='bbox 339 1931 1060 2166; x_wconf 78' lang='lat' dir='ltr'>APOLLoNn</span> <span class='ocrx_word' id='word_1_2' title='bbox 1141 1931 1799 2132; x_wconf 83' lang='lat' dir='ltr'><strong>soPHISTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 413 2369 1736 2924">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 413 2369 1736 2968">
+     <span class='ocr_line' id='line_1_2' title="bbox 413 2369 1736 2552; baseline 0.005 -6"><span class='ocrx_word' id='word_1_3' title='bbox 413 2373 937 2547; x_wconf 87' lang='lat' dir='ltr'>LEXICON</span> <span class='ocrx_word' id='word_1_4' title='bbox 980 2369 1736 2552; x_wconf 80' lang='lat' dir='ltr'>HOMERICUM;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 531 2783 1623 2924; baseline -0.005 -6"><span class='ocrx_word' id='word_1_5' title='bbox 531 2785 923 2918; x_wconf 82' lang='lat' dir='ltr'>GRAECE</span> <span class='ocrx_word' id='word_1_6' title='bbox 986 2785 1126 2918; x_wconf 81' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_7' title='bbox 1192 2783 1623 2924; x_wconf 64' lang='lat' dir='ltr'><strong>LATINffl</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 426 3284 2004 3482">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 426 3284 2004 3482">
+     <span class='ocr_line' id='line_1_4' title="bbox 426 3284 2004 3482; baseline 0.003 -17"><span class='ocrx_word' id='word_1_8' title='bbox 426 3357 904 3476; x_wconf 68' lang='lat' dir='ltr'><em>-TOMUS</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 996 3365 1656 3482; x_wconf 60' lang='lat' dir='ltr'><em>SECUNDU&amp;</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1949 3284 2004 3434; x_wconf 81' lang='grc' dir='ltr'>·Ῐ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2242 6032">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2242 6032">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2242 6032; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 2242 6032; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
